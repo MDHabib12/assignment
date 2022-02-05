@@ -1,0 +1,102 @@
+.section1{
+    display: flex;
+    padding: 50px;
+    margin-left: 10px;
+    border-radius: 50px;
+   
+}
+
+.div1{
+
+padding: 10px;
+display: 100%;
+margin-left: 10px;
+
+
+}
+
+img{
+    width: 500px;
+    height: 500px;
+}
+.Mission{
+    color: #FFAD5A;
+}
+.atag{
+    color: #FF5959;
+    padding: 10px;
+    margin: 10px;
+
+}
+.section2{
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+}
+.my{
+    color: #FFAD5A;
+    margin-left: 40%;
+    margin-right: 40%;
+    font-size: 50px;
+}
+span{
+    color: #13103A;
+}
+.mission{
+    font-weight: 800;  
+}
+
+.hireme{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 5px 11px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 30px;
+    color: paleturquoise;
+    background-image: -moz-linear-gradient(tomato; orange;);
+}
+.section3{
+display: flex;
+
+}
+.div6{
+    border: 50px;
+    margin: 80px;
+    
+}
+.section4{
+    display: flex;
+    margin: 80px;
+    border: 20%;
+    padding: 20px;
+}
+.section5{
+    display: flex;
+    border: 50px;
+}
+.corona1{
+    margin-left: 35%;
+}
+.span2{
+    color: #FFAD5A;
+}
+p{
+    font-weight: 900;
+}
+.section6{
+    background-color: black;
+
+}
+.lasth1{
+    text-align: center;
+    color: #f6f6f6;
+}
+.lastspn{
+    text-align: center;
+    color: #ff5959;
+}
+.lastp{
+    text-align: center;
+    color: #acaeb5;
+}
